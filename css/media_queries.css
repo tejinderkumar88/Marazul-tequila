@@ -1,0 +1,612 @@
+@media screen and (min-width: 1920px) {
+header{height: 56.8vw;}
+.header-banner .right{padding-top: 13.5vw;}
+.header-banner h3{font-size: 3.4vw; padding-top: 19vw;}
+.our-tequilas h1{font-size: 3vw; padding-bottom: 1vw; background-position: left 3.5vw; margin-top: -6vw;}
+.our-tequilas li:first-child{margin-left: 0;}
+.our-tequilas li:nth-child(4){margin-right: 0;}
+.our-tequilas li:nth-child(8){margin-right: 0}
+.production .left img{height: 43.8vw;}
+.production .right{height: 50.1vw;}
+.production .right p{padding-top: 2.88vw;}
+.production .right-in h2{font-size: 3vw; padding-bottom: 1vw; background-position: left 3.5vw;}
+.health .left li{background-position: left .68vw; padding-left: 2.8vw; font-size: 2vw;}
+.health .right{padding-top: 3.5vw;}
+.health .right img{width: 33.13vw; height: 31.18vw;}
+.different-flavours{padding-top: 13vw;}
+.different-flavours .left img{width: 92%;}
+.different-flavours .right{padding-top: 7vw;}
+.different-flavours .right p{padding-top: 2.5vw;}
+.different-flavours .right-in h1{font-size: 3vw; padding-bottom: 1vw; background-position: left 3.5vw;}
+
+/*== Tequila Type Page ==*/
+.product-list li{margin-right: 1.29vw;}
+.product-list li a span{font-size: 0.85vw;}
+
+/*== Our Tequila Page ==*/
+.header-banner.inner-pages-header-banner .right{padding-top: 249px;}
+.inner-pages-header-banner p{font-size: 20px; line-height: 42px;}
+.our-tequilas-tastebuds h4{font-size: 40px;}
+.our-tequilas-tastebuds li a span{font-size: 17px;}
+
+/*== Coctails Section ==*/
+
+.cocktails-header-banner.inner-pages-header-banner .left h3{padding-top: 13vw;}
+.cocktails-header-banner.inner-pages-header-banner .right{padding-top: 7vw;}
+
+.coctails-section li{margin-right: .89vw;}
+.cocktails-page .coctails-section li{margin-bottom: 1.5vw;}
+.cocktails-page .coctails-section .button{margin-top: 2vw;}
+
+/*== Contact Page ==*/
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 382px;}
+
+}
+@media screen and (max-width: 1920px) {
+header{height: 56.8vw;}
+.header-banner h3{padding-top: 19vw;}
+.our-tequilas h1{font-size: 3vw; padding-bottom: 1vw; background-position: left 3.5vw; margin-top: -6vw;}
+.our-tequilas li{margin-right: 3vw;}
+.our-tequilas li:first-child{margin-left: 0;}
+.our-tequilas li:nth-child(4){margin-right: 0;}
+.our-tequilas li:nth-child(8){margin-right: 0}
+.production .right{height: 50.1vw;}
+.production .right p{padding-top: 2.88vw;}
+.production .right-in h2{font-size: 3vw; padding-bottom: 1vw; background-position: left 3.5vw;}
+.production .left img{height: 43.8vw;}
+.health{padding-bottom: 1vw;}
+.health .left span{padding-bottom: 3vw;}
+.health .left li{background-position: left .68vw; padding-left: 2.8vw; font-size: 2vw;}
+.health .right{padding-top: 3.5vw;}
+.health .right img{width: 33.13vw; height: 31.18vw;}
+.different-flavours{padding-top: 13vw;}
+.different-flavours .left img{width: 92%;}
+.different-flavours .right{padding-top: 7vw;}
+.different-flavours .right p{padding-top: 2.5vw;}
+.different-flavours .right-in h1{font-size: 3vw; padding-bottom: 1vw; background-position: left 3.5vw;}
+
+/*== Tequila Type Page ==*/
+.product-list li{margin-right: 1.29vw;}
+.product-list li a span{font-size: 14px;}
+
+/*== Our Tequila Page ==*/
+
+.header-banner.inner-pages-header-banner .right{padding-top: 13vw;}
+.inner-pages-header-banner p{font-size: 1.15vw; line-height: 2vw;}
+.our-tequilas-tastebuds h4{font-size: 2.4vw;}
+.our-tequilas-tastebuds li a span{font-size: 17px;}
+
+.header-banner h3.inner-pages-header-heading{font-size: 3.7vw;}
+
+/*== Coctails Section ==*/
+
+.cocktails-header-banner.inner-pages-header-banner .left h3{padding-top: 13vw;}
+.cocktails-header-banner.inner-pages-header-banner .right{padding-top: 7vw;}
+
+.coctails-section li{margin-right: .89vw;}
+.cocktails-page .coctails-section li{margin-bottom: 1.5vw;}
+.cocktails-page .coctails-section .button{margin-top: 2vw;}
+
+/*== Contact Page ==*/
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 20vw;}
+
+}
+@media screen and (min-width: 1800px) and (max-width: 1920px) {
+.header-banner .right{padding-top: 13.5vw;}
+
+}
+@media screen and (min-width: 1600px) and (max-width: 1800px) {
+.header-banner .right{padding-top: 11vw;}
+
+.header-banner h3{font-size: 3.8vw;}
+.our-tequilas li:nth-child(4){margin-right: 3vw;}
+.our-tequilas li:nth-child(5){margin-right: 0}
+.our-tequilas li:nth-child(8){margin-right: 3vw;}
+.different-flavours{padding-top: 11vw;}
+}
+@media screen and (max-width: 1800px){
+.inner-pages-header-banner p{font-size: 1.5vw; line-height: 2.5vw;}
+.header-banner.inner-pages-header-banner .right{padding-top: 8.5vw;}
+
+/*== Coctails Section ==*/
+
+.cocktails-header-banner.inner-pages-header-banner .left h3{padding-top: 13vw;}
+.cocktails-header-banner.inner-pages-header-banner .right{padding-top: 6vw;}
+.cocktails-header-banner.inner-pages-header-banner .right p{font-size: 1.2vw; line-height: 2.2vw;}
+
+/*== Contact Page ==*/
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 19.85vw;}
+.contact-header-banner.inner-pages-header-banner .right p{font-size: 1.4vw}
+
+}
+@media screen and (max-width: 1600px) {
+.header-banner .right img{width: 26.38vw; height: 41.63vw;}
+/*== Tequila Type Page ==*/
+.product-detail .right li p{padding-left: 35px; line-height: 31px;}
+.tequila-type .cross-arrow{right: 0;}
+
+.header-banner h3.inner-pages-header-heading{font-size: 4vw; padding-top: 15vw;}
+.header-banner.inner-pages-header-banner .right{padding-top: 8vw;}
+.inner-pages-header-banner p{font-size: 1.4vw; line-height: 2.5vw;}
+
+/*== Coctails Section ==*/
+
+.cocktails-header-banner.inner-pages-header-banner .left h3{padding-top: 11vw;}
+.cocktails-header-banner.inner-pages-header-banner .right{padding-top: 3vw;}
+.cocktails-header-banner.inner-pages-header-banner .right p{font-size: 1.4vw; line-height: 2.6vw;}
+
+/*== Contact Page ==*/
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 16vw;}
+
+}
+@media screen and (min-width: 1500px) and (max-width: 1600px) {
+.header-banner .right{padding-top: 7vw;}
+}
+@media screen and (min-width: 1400px) and (max-width: 1500px) {
+.header-banner .right{padding-top: 4.95vw;}
+}
+@media screen and (min-width: 1400px) and (max-width: 1600px) {
+.header-banner h3{font-size: 4.3vw; padding-top: 11vw;}
+.our-tequilas li:first-child{margin-left: 3vw;}
+.our-tequilas li:nth-child(4){margin-right: 3vw;}
+.our-tequilas li:nth-child(5){margin-right: 3vw}
+.our-tequilas li:nth-child(8){margin-right: 3vw;}
+.health .right img{width: 26.84vw; height: 25.39vw;}
+.different-flavours{padding-top: 9vw;}
+}
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+.header-banner .right{padding-top: 3.95vw; float: right;}
+.header-banner .right img{float: right;}
+.header-banner h3{padding-top: 9.5vw;}
+}
+@media screen and (max-width: 1400px) {
+.our-tequilas li{margin-right: 4vw;}
+.our-tequilas li:first-child{margin-left: 10vw;}
+.our-tequilas li:nth-child(4){margin-right: 10vw; clear: both;}
+.our-tequilas li:nth-child(5){margin-right: 4vw;}
+.our-tequilas li:nth-child(8){margin-right: 4vw;}
+.health{padding-bottom: 4vw;}
+.different-flavours{padding-top: 7.5vw;}
+.health .left li{background-position: left .5vw; padding-left: 3.1vw; font-size: 2.15vw;}
+
+.header-banner h3.inner-pages-header-heading{font-size: 4.7vw; padding-top: 11.5vw;}
+.inner-pages-header-banner p{font-size: 1.4vw; line-height: 3vw;}
+.header-banner.inner-pages-header-banner .right{padding-top: 3.95vw;}
+
+/*== Coctails Section ==*/
+
+.coctails-section li{margin-right: 1.25vw;}
+
+.cocktails-header-banner.inner-pages-header-banner .left h3{padding-top: 6vw;}
+.cocktails-header-banner.inner-pages-header-banner .right{padding-top: 0;}
+.cocktails-header-banner.inner-pages-header-banner .right p{font-size: 1.5vw; line-height: 2.8vw;}
+
+/*== Contact Page ==*/
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 12.7vw;}
+.contact-header-banner.inner-pages-header-banner .right p{font-size: 18px;}
+
+.contact-detail input{width: 370px; margin-bottom: 15px; font-size: 14px; padding: 10px 12px;}
+.contact-detail textarea{width: 370px; font-size: 14px; padding: 10px 12px;}
+.contact-detail img{width: auto; height: auto;}
+
+.contact-detail .captcha{width: 370px;}
+.contact-detail a{padding: 9px 50px; font-size: 18px;}
+}
+@media screen and (max-width: 1350px) {
+.different-flavours{padding-top: 7vw;}
+}
+@media screen and (max-width: 1310px) {
+.our-tequilas li{margin-right: 5vw;}
+.our-tequilas li:nth-child(5){margin-right: 5vw;}
+.our-tequilas li:nth-child(8){margin-right: 5vw;}
+.different-flavours .left img{width: 82%}
+}
+@media screen and (max-width: 1250px) {
+.our-tequilas li{margin-right: 6vw;}
+.our-tequilas li:nth-child(5){margin-right: 6vw;}
+.our-tequilas li:nth-child(8){margin-right: 6vw;}
+}
+@media screen and (max-width: 1280px) {
+.health{padding-bottom: 6vw;}
+.our-tequilas li:nth-child(4){margin-right: 5vw;}
+.our-tequilas li:nth-child(8){margin-right: 5vw;}
+}
+@media screen and (width: 1280px) {
+
+}
+@media screen and (max-width: 1200px) {
+.navbar-nav > li{padding-right: 25px;}
+.header-banner h3{padding-top: 9vw;}
+.header-banner .right{float: right;}
+.header-banner .right img{float: right;}
+.our-tequilas li{margin-right: 4vw; width: auto;}
+.our-tequilas li:first-child{margin-left: 0;}
+.our-tequilas li:nth-child(4){margin-right: 4vw; clear: none;}
+.our-tequilas li:nth-child(5){margin-right: 0vw;}
+.our-tequilas li:nth-child(8){margin-right: 4vw;}
+.our-tequilas ul{display: inline-block;}
+.production .right-in{width: 90%;}
+.production .right p{line-height: 28px; font-size: 16px;}
+.quality .left{padding-top: 0;}
+.health .left span{font-size: 27px;}
+.health .left li{background-size: 20px 23px;}
+.quality .left p{line-height: 28px; font-size: 16px;}
+.different-flavours .right p{line-height: 36px;}
+.different-flavours .right-in{width: 100%}
+.different-flavours .left img{width: 80%;}
+
+/*== Tequila Type Page ==*/
+.product-list li{margin-right: 0.47vw;}
+.product-detail h1{font-size: 40px; background-position: left 44px; padding-bottom: 50px;}
+.product-detail .right span{font-size: 24px; padding-bottom: 25px;}
+.product-detail .right h3{font-size: 18px; padding-bottom: 25px;}
+.product-detail .right p{font-size: 14px; line-height: 24px; padding-bottom: 25px;}
+
+.owl-nav{display: block;}
+
+.our-tequilas-tastebuds h4{font-size: 2.9vw;}
+.our-tequilas-quality .right{padding-right: 3.68vw; padding-top: 6vw;}
+.our-tequilas-quality .right .right-in{padding-left: 0px; padding-right: 0px;}
+
+.our-tequilas-tastebuds li:nth-child(5){margin-right: 5vw;}
+.our-tequilas-tastebuds li:nth-child(6){margin-left: 5vw;}
+
+.header-banner.inner-pages-header-banner .right{padding-top: 0;}
+.our-tequilas-quality p{font-size: 16px; line-height: 28px;}
+.inner-pages-header-banner p{font-size: 1.8vw; line-height: 3.5vw;}
+
+.coctails-section li{width: 224px; margin-right: 10px;}
+.coctails-section li img{width: 100%;}
+.coctails-section li span{font-size: 20px;}
+
+.cocktails-page ul{margin-top: -14vw;}
+.cocktails-header-banner.inner-pages-header-banner .right p{font-size: 1.5vw; line-height: 2.7vw;}
+
+.cocktails-page .coctails-section li{margin-bottom: 15px;}
+
+/*== Contact Page ==*/
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 12.2vw;}
+
+}
+@media screen and (min-width: 1025px) {
+.owl-carousel-height{ overflow:hidden; height:210px;}
+}
+@media screen and (max-width: 1023px) {
+.navbar-header{float: none;}
+.navbar-left, .navbar-right {float: none !important;}
+.navbar-toggle{display: block;}
+.navbar-collapse{border-top: 1px solid transparent; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);}
+.navbar-fixed-top{top: 0; border-width: 0 0 1px;}
+body{overflow-x: hidden;}
+.navbar-collapse.collapse{display: none !important; position: absolute !important; top: 65px; background-color: #000; border-color: #1a1a1a; z-index: 999; width: 112%; padding: 0px; -webkit-box-shadow: none; box-shadow: none; left: -5vw;}
+.nav > li > a:hover, .nav > li > a:focus{background-color: transparent;}
+.navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus{background-color: transparent !important;}
+.navbar-nav{float: left; width: 100%; margin: 0px;}
+.navbar-collapse.collapsing{display: none !important;}
+.navbar-default .navbar-nav > .active > a{border-bottom-color: transparent;}
+.navbar-nav > li > a{text-align: center !important;}
+.navbar-nav>li{float: none;}
+.navbar-nav>li>a{padding-top: 5px; padding-bottom: 5px;}
+.collapse.in{display: block !important;}
+.navbar-inverse .navbar-toggle .icon-bar{background: #ec0928;}
+.navbar-nav{padding-left: 0px;}
+.header_bottom .nav > li{padding: 10px; border-bottom: 1px solid #ddd;}
+.navbar-toggle .icon-bar{width: 42px; height: 5px;}
+.navbar-toggle{margin-right: 0px; margin-top: 33px;}
+
+.logo{float: left; width: auto;}
+.logo a{width: 70%;}
+.logo img{width: 70%; float: left}
+.navbar-nav > li{padding:0px 15px;border-bottom:1px solid #1a1a1a;display:block;}
+.navbar-nav > li > a span{border-color: transparent;}
+.navbar-nav > li > a span:hover{border-color: transparent;}
+.navbar-nav > li a{padding:11px 0px;}
+.navbar-nav > li > a span{padding: 0px;}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background-color: transparent;}
+.navbar-default .navbar-toggle{border-color: transparent;}
+.navbar-default .navbar-toggle .icon-bar{background-color: #ffca4c;}
+.navbar-toggle .icon-bar{height: 3px;}
+
+.navbar-toggle .icon-bar + .icon-bar{margin-top: 8px;}
+.header-banner h3{font-size: 3.7vw; padding-top: 7vw;}
+.our-tequilas h1{padding-bottom: 3vw;}
+.our-tequilas li:nth-child(4){margin-right: 0px;}
+.our-tequilas li:nth-child(5){margin-right: 4vw;}
+.our-tequilas li:nth-child(8){margin-right: 0px;}
+.production .right-in h2{padding-bottom: 3vw;}
+.production .right{padding-top: 3.88vw;}
+.production .right p{line-height: 21px; font-size: 13px; padding-top: 1.5vw;}
+.production .right a{font-size: 12px; margin-top: 2vw;}
+.health .left li{background-size: 13px 16px;}
+.different-flavours .right-in h1{padding-bottom: 3vw;}
+.different-flavours .right p{line-height: 21px; font-size: 13px; padding-top: 1.5vw;}
+.different-flavours .right a{font-size: 12px;}
+.quality h1{padding-bottom: 3vw;}
+.quality .left p{line-height: 21px; font-size: 13px; padding-top: 0px;}
+.quality .left a{font-size: 12px;}
+footer .social-media li a img{height: 24px;}
+footer .links{padding-top: 30px;}
+footer .links li{padding-right: 20px; font-size: 16px;}
+footer .links li a{font-size: 16px;}
+.footer-bottom{padding-top: 30px; padding-bottom: 30px;}
+
+.cocktails-header-banner.inner-pages-header-banner .right p{font-size: 1.7vw; line-height: 3vw}
+}
+@media screen and (max-width: 991px) {
+.navbar-collapse.collapse{left: -14vw; width: 138%;}
+
+/*== Tequila Type Page ==*/
+.product-list li{width: 13vw;}
+
+.inner-pages-header-banner p{font-size: 1.7vw; line-height: 3.3vw;}
+.header-banner h3.inner-pages-header-heading{font-size: 3.6vw; padding-top: 11vw;}
+.our-tequilas-quality a{display: none;}
+
+.our-tequilas-tastebuds li:nth-child(5){margin-right: 0px;}
+.our-tequilas-tastebuds li:nth-child(6){margin-left: 0px;}
+.our-tequilas-quality p{font-size: 1.87vw; line-height: 3.25vw;}
+.our-tequilas-quality h2{font-size: 25px; background-position: left 28px; padding-bottom: 2vw;}
+
+/*== Coctails Section ==*/
+
+.coctails-section h1{font-size: 25px; background-position: left 28px; padding-bottom: 30px;}
+
+.coctails-section li{width: auto; margin-right: 15px; margin-bottom: 25px;}
+.coctails-section li:nth-child(even){margin-right: 0px;}
+.coctails-section li img{width: 100%;}
+.coctails-section li span{font-size: 20px;}
+
+.coctails-section .button{margin-top: 25px;}
+
+h1{font-size: 25px; background-position: left 28px; padding-bottom: 30px;}
+
+.cocktails-header-banner.inner-pages-header-banner .left h3{padding-top: 8vw;}
+.cocktails-header-banner.inner-pages-header-banner .right p{font-size: 1.7vw; line-height: 3.3vw;}
+
+/*== Contact Page ==*/
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 11.35vw;}
+.contact-detail p{font-size: 16px;}
+.contact-detail input{width: 100%;}
+.contact-detail textarea{width: 100%;}
+.contact-detail .captcha{width: 100%;}
+}
+@media screen and (max-width: 769px) {
+.header-banner h3.inner-pages-header-heading{padding-top: 9vw; font-size: 4.5vw;}
+.inner-pages-header-banner p{font-size: 2vw; line-height: 3.5vw;}
+.our-tequilas-tastebuds li{margin-right: 3vw; margin-bottom: 3vw;}
+.our-tequilas-tastebuds li:nth-child(1){margin-left: 15vw;}
+.our-tequilas-tastebuds li:nth-child(2){margin-right: 15vw;}
+.our-tequilas-tastebuds li:nth-child(5){margin-right: 3vw;}
+.our-tequilas-tastebuds li:nth-child(6){margin-right: 3vw;}
+
+.cocktails-header-banner.inner-pages-header-banner .right p{font-size: 2vw; line-height: 3.2vw;}
+
+.cocktails-page ul{margin-top: -9.5vw;}
+.cocktails-page .coctails-section li{width: 227px;}
+.cocktails-page .coctails-section li:nth-child(2n){margin-right: 15px;}
+.cocktails-page .coctails-section li:nth-child(3n){margin-right: 0;}
+.cocktails-page .coctails-section li span{font-size: 18px;}
+
+/*== Contact Page ==*/
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 9.85vw;}
+
+}
+@media screen and (max-width: 767px) {
+
+header{height: auto;}
+.header-banner h3{font-size: 27px; padding-top: 20px;}
+
+.our-tequilas h1{font-size: 25px; background-position: left 28px; margin-top: -20px; padding-bottom: 30px;}
+.our-tequilas li a img{width: 65px;}
+.our-tequilas li a span{font-size: 14px;}
+.our-tequilas li{margin-right: 40px;}
+.our-tequilas li:first-child{margin-left: 70px;}
+.our-tequilas li:nth-child(2){margin-right: 70px;}
+.our-tequilas li:nth-child(3){margin-left: 60px; margin-right: 40px;}
+.our-tequilas li:nth-child(4){margin-right: 40px;}
+.our-tequilas li:nth-child(5){margin-right: 60px;}
+.our-tequilas li:nth-child(6){margin-left: 58px; margin-right: 40px;}
+
+.our-tequilas li:nth-child(8){margin-right: 40px;}
+.production .left{position: relative; z-index: 1;}
+.production .left img{height: auto;}
+.production .right{background: url(../images/production-right-image2.png) no-repeat left top; margin-top: -2vw; position: relative; z-index: 2; background-size: cover;}
+
+.production .right{margin-top: -14vw; padding-top: 16vw; height: 446px;}
+
+.production .right-in{width: 95%;}
+.production .right-in h2{font-size: 25px; background-position: left 28px; margin-top: -20px; padding-bottom: 30px;}
+.production .right p{line-height: 26px; font-size: 14px;}
+.production .right a{font-size: 15px; margin-top: 25px; float: right;}
+
+.health{padding-bottom: 0px;}
+.health .left li{background-size: 22px 23px; font-size: 21px; padding-left: 40px; padding-bottom: 10px;}
+.health .right{float: right;}
+.health .left span{padding-bottom: 30px; font-size: 24px;}
+.health .left span .desktop{display: none;}
+.health .right img{width: 200px; height: 188px;float: right;}
+
+.different-flavours{height: 135vw; padding-top: 12vw; margin-top: 0px; background-size: cover;}
+.different-flavours .left{float: none; text-align: center;}
+.different-flavours .left img{width: 200px;}
+.different-flavours .right{padding-top: 11vw;}
+.different-flavours .right-in h1{font-size: 25px; background-position: left 28px; margin-top: -20px; padding-bottom: 30px;}
+.different-flavours .right p{line-height: 26px; font-size: 14px;}
+.different-flavours .right p.desktop{display: none;}
+.different-flavours .right p.mobile{display: block}
+.different-flavours .right a{font-size: 15px; margin-top: 25px; float: right;}
+
+.quality .left-in{float: left; max-width: 100%; margin-right: 15px; margin-left: 15px;}
+.quality{margin-top: -18vw;}
+.quality .left{padding-top: 30px;padding-bottom: 70px;}
+.quality .left-in{padding-left: 0px; padding-right: 0px; width: auto;}
+.quality .left h1{font-size: 25px; background-position: left 28px; padding-bottom: 30px;}
+.quality .left p{line-height: 26px; font-size: 14px; padding-bottom: 20px; clear: both;}
+.quality .left a{font-size: 15px; float: none; clear: both; margin: 0px auto; display: table;}
+
+.quality .left p.mobile{display: block;}
+.quality .left p.desktop{display: none;}
+.quality .right{margin-top: -14vw;}
+
+footer .links li.mobile{display: none;}
+footer .links li{padding-right: 0px; float: none; text-align: center; padding-bottom: 10px;}
+footer .links li:last-child{padding-bottom: 0px;}
+.navbar-collapse.collapse{width: 130%;}
+
+/*== Tequila Type Page ==*/
+.product-detail{background-position: left 28vw;}
+
+.product-list li{width: 17vw;}
+.product-detail .left img{width: 400px; padding-bottom: 40px;}
+
+.header-banner h3.inner-pages-header-heading{padding-top: 0;}
+
+.our-tequilas-tastebuds li{margin-right: 0px;}
+.our-tequilas-tastebuds li:nth-child(1){margin-left: 0;}
+.our-tequilas-tastebuds li:nth-child(2){margin-right: 0;}
+.our-tequilas-tastebuds li:nth-child(5){margin-right: 0;}
+.our-tequilas-tastebuds li:nth-child(6){margin-right: 0;}
+
+header.our-tequilas-header{height: 70vw;}
+.header-banner h3.inner-pages-header-heading{font-size: 4.5vw; text-align: center;}
+.inner-pages-header-banner p{padding-top: 2.3vw; font-size: 2.4vw; line-height: 3.8vw;}
+.our-tequilas-tastebuds h4{font-size: 28px;}
+
+.our-tequilas-quality .left{padding-top: 0px; margin-top: -22vw; padding-bottom: 0px;}
+.our-tequilas-quality .right{background: url(../images/our-tequilas-quality-right-bg2.png) no-repeat left top; margin-top: 0; position: relative; z-index: 2; background-size: cover; height: 90vw; padding-top: 16vw; padding-bottom: 11vw;}
+
+.our-tequilas-quality p{line-height: 6vw; font-size: 3vw;}
+
+.coctails-section{padding-bottom: 80px;}
+
+header.about-us-header{height: 70vw;}
+
+.about-us-heading-space{padding-bottom: 30px;}
+
+.about-us-production p, .about-us-quality p{font-size: 16px; line-height: 30px;}
+
+.cocktails-header-banner.inner-pages-header-banner .left h3{padding-top: 0px;}
+header.cocktails-header{height: 70vw;}
+
+.cocktails-header-banner.inner-pages-header-banner .right p{padding-top: 2.3vw; font-size: 2.4vw; line-height: 3.8vw;}
+
+.cocktails-page .coctails-section li:nth-child(2n){margin-right: 0px;}
+.cocktails-page .coctails-section li:nth-child(3n){margin-right: 15px;}
+.cocktails-page .coctails-section li:last-child{margin-right: 0px;}
+
+.cocktails-page .coctails-section li span{font-size: 18px;}
+
+.cocktails-header-banner.inner-pages-header-banner .right p.desktop{display: none;}
+.cocktails-header-banner.inner-pages-header-banner .right p.mobile{display: block}
+
+.cocktails-header-banner.inner-pages-header-banner .right p{padding-top: 10vw;}
+
+.contact-header-banner.inner-pages-header-banner .right p{padding-top: 2.3vw; font-size: 2.4vw; line-height: 3.8vw;}
+
+/*== Contact Page ==*/
+
+header.contact-header{height: 70vw;}
+
+.contact-header-banner.inner-pages-header-banner .right p{padding-top: 0;}
+
+.map{margin-top: -16vw;}
+
+.contact-detail{padding-top: 45px; padding-bottom: 80px;}
+.contact-detail .left{padding-top: 0px; padding-bottom: 35px;}
+.contact-detail img{margin: 10px auto;}
+}
+@media screen and (max-width: 599px){
+
+/*== Tequila Type Page ==*/
+
+.product-list li{width: auto; margin-right: 4vw; margin-bottom: 20px;}
+.product-detail{background-position: left 44vw;}
+.product-detail h1{font-size: 34px; background-position: left 41px;}
+
+header.our-tequilas-header{height: 100vw;}
+.inner-pages-header-banner p{font-size: 3vw; line-height: 5vw;}
+
+.our-tequilas-quality .left{margin-top: -22vw;}
+
+.our-tequilas-tastebuds h4{font-size: 5.2vw;}
+
+.coctails-section li{margin-right: 0px;}
+
+header.about-us-header{height: 100vw;}
+.cocktails-page .coctails-section li{width: auto;}
+.cocktails-page .coctails-section li:nth-child(3n){margin-right: 0px;}
+
+.cocktails-header-banner.inner-pages-header-banner .right p{padding-top: 7vw;}
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 8vw;}
+
+header.contact-header{height: 100vw;}
+
+.map{margin-top: -20vw;}
+
+}
+@media screen and (max-width: 479px){
+.logo img{width: 60%;}
+.navbar-toggle .icon-bar{width: 36px;}
+.header-banner h3{padding-top: 13px; font-size: 21px;}
+
+.our-tequilas li{margin-right: 25px;}
+.our-tequilas li a span{font-size: 11px;}
+.our-tequilas li:first-child{margin-left: 50px;}
+.our-tequilas li:nth-child(2){margin-right: 50px;}
+.our-tequilas li:nth-child(3){margin-left: 0px; margin-right: 25px;}
+.our-tequilas li:nth-child(4){margin-right: 25px;}
+.our-tequilas li:nth-child(5){margin-right: 0px;}
+.our-tequilas li:nth-child(6){margin-left: 0px; margin-right: 25px;}
+
+.our-tequilas li:nth-child(8){margin-right: 0px;}
+
+.production .right{padding-top: 20vw; height: 535px;}
+.different-flavours{height: 200vw;}
+.quality{margin-top: -30vw;}
+.production .right a{padding: 6px 12px;}
+.different-flavours .right a{padding: 6px 12px;}
+.quality .left a{padding: 6px 12px;}
+
+/*== Tequila Type Page ==*/
+
+.product-detail{background-position: left 56vw;}
+.product-detail h1{font-size: 22px; background-position: left 32px;}
+.product-detail .left img{width: 100%;}
+
+header.our-tequilas-header{height: 150vw;}
+.header-banner h3.inner-pages-header-heading{font-size: 25px;}
+.inner-pages-header-banner p{padding-top: 3vw; font-size: 3.9vw; line-height: 6.3vw;}
+
+.our-tequilas-tastebuds{margin-top: -15vw;}
+.our-tequilas-quality .left{margin-top: -35vw;}
+.our-tequilas-quality .right{height: 150vw;}
+.our-tequilas-quality h2{padding-bottom: 30px;}
+.our-tequilas-quality p{line-height: 26px; font-size: 14px;}
+
+header.about-us-header{height: 150vw;}
+
+.about-us-quality{margin-top: 0px;}
+
+header.cocktails-header{height: 80vw;}
+.cocktails-header-banner.inner-pages-header-banner .right p{padding-top: 5vw; font-size: 13px; line-height: 6.3vw;}
+
+.contact-header-banner.inner-pages-header-banner .right{padding-top: 5vw;}
+.contact-header-banner.inner-pages-header-banner .right p{font-size: 13px; line-height: 6.3vw;}
+
+}
+@media screen and (max-width: 399px){
+.contact-detail img{width: 100%;}
+.contact-detail p.mobile br{display: none;}
+
+header.cocktails-header{height: 105vw;}
+.cocktails-header-banner.inner-pages-header-banner .right p{padding-top: 5vw; font-size: 13px; line-height: 6.3vw;}
+}
